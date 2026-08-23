@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-23 14:58">
+<shop>
+<name>Бокалвина</name>
+<company>Бокалвина</company>
+<url>https://bokalwina.ru</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Бокалы и посуда</category>
+<category id="2" parentId="1">Josephine</category>
+<category id="3" parentId="1">Zalto</category>
+<category id="4" parentId="1">Lehmann</category>
+<category id="5" parentId="1">Markthomas</category>
+<category id="6" parentId="1">Sydonios</category>
+<category id="7" parentId="1">Spiegelau</category>
+<category id="8" parentId="1">Посуда для крепких напитков</category>
+</categories>
+<offers>
+<offer id="508911225332" group_id="714101381102" available="true">
+<url>https://bokalwina.ru/josephine_red?editionuid=508911225332</url>
+<price>25000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3063-6363-4634-a132-313638336161/57978963.png</picture>
+<name>Josephine Red - 2 шт</name>
+<vendor>Josephine</vendor>
+<description><![CDATA[От искристых нот Бургундии до бархатистого шёпота Бордо — этот бокал дарит вину возможность явить свою истинную душу.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="893788606282" group_id="714101381102" available="true">
+<url>https://bokalwina.ru/josephine_red?editionuid=893788606282</url>
+<price>73000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3063-6363-4634-a132-313638336161/57978963.png</picture>
+<name>Josephine Red - 6 шт (набор)</name>
+<vendor>Josephine</vendor>
+<description><![CDATA[От искристых нот Бургундии до бархатистого шёпота Бордо — этот бокал дарит вину возможность явить свою истинную душу.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="979836650502" group_id="638379438752" available="true">
+<url>https://bokalwina.ru/josephine_universal?editionuid=979836650502</url>
+<price>25000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3239-3663-4537-b834-393265323466/30442593.png</picture>
+<name>Josephine Universal - 2 шт</name>
+<vendor>Josephine</vendor>
+<description><![CDATA[В этом бокале оживает душа напитка — белые вина сияют свежестью, красные обретают мощь, а пиво раскрывает всю палитру зерновых и хмелевых оттенков. Совершенство в каждой детали.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="428292123152" group_id="638379438752" available="true">
+<url>https://bokalwina.ru/josephine_universal?editionuid=428292123152</url>
+<price>73000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3239-3663-4537-b834-393265323466/30442593.png</picture>
+<name>Josephine Universal - 6 шт (набор)</name>
+<vendor>Josephine</vendor>
+<description><![CDATA[В этом бокале оживает душа напитка — белые вина сияют свежестью, красные обретают мощь, а пиво раскрывает всю палитру зерновых и хмелевых оттенков. Совершенство в каждой детали.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="556339985492" group_id="592501182472" available="true">
+<url>https://bokalwina.ru/josephine_champagne?editionuid=556339985492</url>
+<price>25000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3735-3732-4237-a661-313135616333/99762980.png</picture>
+<name>Josephine Champagne - 2 шт</name>
+<vendor>Josephine</vendor>
+<description><![CDATA[Философия игристого в одном бокале: от строгого брют до фруктового проксеко — все ноты на своих местах.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="777726995172" group_id="592501182472" available="true">
+<url>https://bokalwina.ru/josephine_champagne?editionuid=777726995172</url>
+<price>73000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3735-3732-4237-a661-313135616333/99762980.png</picture>
+<name>Josephine Champagne - 6 шт (набор)</name>
+<vendor>Josephine</vendor>
+<description><![CDATA[Философия игристого в одном бокале: от строгого брют до фруктового проксеко — все ноты на своих местах.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="483354927962" group_id="875162442932" available="true">
+<url>https://bokalwina.ru/josephine_white?editionuid=483354927962</url>
+<price>25000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor6265-3161-4634-b631-373862313630/40957329.png</picture>
+<name>Josephine White - 2 шт</name>
+<vendor>Josephine</vendor>
+<description><![CDATA[Хрустальный лепесток для лёгких вин — в нём зреет абрикосовая нежность розе, дрожит крыло совиньона, а каждый глоток становится шёпотом летнего ветра.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="684089636042" group_id="875162442932" available="true">
+<url>https://bokalwina.ru/josephine_white?editionuid=684089636042</url>
+<price>73000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor6265-3161-4634-b631-373862313630/40957329.png</picture>
+<name>Josephine White - 6 шт (набор)</name>
+<vendor>Josephine</vendor>
+<description><![CDATA[Хрустальный лепесток для лёгких вин — в нём зреет абрикосовая нежность розе, дрожит крыло совиньона, а каждый глоток становится шёпотом летнего ветра.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="288887332762" group_id="638530115752" available="true">
+<url>https://bokalwina.ru/josephine_water?editionuid=288887332762</url>
+<price>15500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3464-3332-4539-b835-633932663833/21007950.png</picture>
+<name>Josephine Water - 2 шт</name>
+<vendor>Josephine</vendor>
+<description><![CDATA[Стеклянное дыхание: невидимое, пока не встретится с водой]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="298459798632" group_id="638530115752" available="true">
+<url>https://bokalwina.ru/josephine_water?editionuid=298459798632</url>
+<price>45000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://static.tildacdn.com/stor3464-3332-4539-b835-633932663833/21007950.png</picture>
+<name>Josephine Water - 6 шт (набор)</name>
+<vendor>Josephine</vendor>
+<description><![CDATA[Стеклянное дыхание: невидимое, пока не встретится с водой]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="502371165022" group_id="365984786872" available="true">
+<url>https://bokalwina.ru/zalto_white_wine?editionuid=502371165022</url>
+<price>13500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3864-3336-4332-b163-616531393731/54202158.png</picture>
+<name>Zalto White wine - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Белый и розовый танецОдин бокал - два настроения.Фруктовая нежность и прозрачная невинность в идеальном дуэте.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="192440736212" group_id="365984786872" available="true">
+<url>https://bokalwina.ru/zalto_white_wine?editionuid=192440736212</url>
+<price>39000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3864-3336-4332-b163-616531393731/54202158.png</picture>
+<name>Zalto White wine - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Белый и розовый танецОдин бокал - два настроения.Фруктовая нежность и прозрачная невинность в идеальном дуэте.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="280173349382" group_id="527770668042" available="true">
+<url>https://bokalwina.ru/zalto_bourgogne?editionuid=280173349382</url>
+<price>15400</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor6431-3937-4865-b538-313438643939/19280896.png</picture>
+<name>Zalto Bourgogne - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Для вин с темпераментомСила. Страсть. Послевкусие.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="241560664862" group_id="527770668042" available="true">
+<url>https://bokalwina.ru/zalto_bourgogne?editionuid=241560664862</url>
+<price>43600</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor6431-3937-4865-b538-313438643939/19280896.png</picture>
+<name>Zalto Bourgogne - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Для вин с темпераментомСила. Страсть. Послевкусие.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="959363777902" group_id="509840809972" available="true">
+<url>https://bokalwina.ru/zalto_champagne?editionuid=959363777902</url>
+<price>14200</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3339-6164-4430-a665-663861313864/73080589.png</picture>
+<name>Zalto Champagne - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокалы-певцыВ них шампанское поёт хрустальными трелями пузырьков. Для праздников, что сами себя создают.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="400744471592" group_id="509840809972" available="true">
+<url>https://bokalwina.ru/zalto_champagne?editionuid=400744471592</url>
+<price>39500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3339-6164-4430-a665-663861313864/73080589.png</picture>
+<name>Zalto Champagne - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокалы-певцыВ них шампанское поёт хрустальными трелями пузырьков. Для праздников, что сами себя создают.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="450363322242" group_id="954310727422" available="true">
+<url>https://bokalwina.ru/zalto_bordeaux?editionuid=450363322242</url>
+<price>14500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3536-3031-4262-a635-636238633137/81969427.png</picture>
+<name>Zalto Bordeaux - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Где терпкость cтановится искусством.Для вин, что кусаются, но любят нежно.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="789706071012" group_id="954310727422" available="true">
+<url>https://bokalwina.ru/zalto_bordeaux?editionuid=789706071012</url>
+<price>42600</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3536-3031-4262-a635-636238633137/81969427.png</picture>
+<name>Zalto Bordeaux - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Где терпкость cтановится искусством.Для вин, что кусаются, но любят нежно.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="419749122122" group_id="990342995072" available="true">
+<url>https://bokalwina.ru/zalto_universal?editionuid=419749122122</url>
+<price>15300</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3337-3862-4732-b138-313764333335/87280644.png</picture>
+<name>Zalto Universal - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокал-философДля вин, где крепость — лишь фон для тонкой игры земли и минералов. В нём Шардоне зазвучит многоголосьем, а австрийский Грюнер Вельтлинер раскроет всю свою смарагдовую глубину. Чистота ручной работы — для чистоты вкусовых ощущений.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="836679915592" group_id="990342995072" available="true">
+<url>https://bokalwina.ru/zalto_universal?editionuid=836679915592</url>
+<price>42500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3337-3862-4732-b138-313764333335/87280644.png</picture>
+<name>Zalto Universal - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокал-философДля вин, где крепость — лишь фон для тонкой игры земли и минералов. В нём Шардоне зазвучит многоголосьем, а австрийский Грюнер Вельтлинер раскроет всю свою смарагдовую глубину. Чистота ручной работы — для чистоты вкусовых ощущений.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="140831781102" group_id="850661765372" available="true">
+<url>https://bokalwina.ru/omega_gravitas?editionuid=140831781102</url>
+<price>16000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3831-3464-4430-a166-333733656437/59801487.png</picture>
+<name>Omega Gravitas - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокал для винных хулигановНаклон — как вызов.Форма — как искушение.Вина раскрываются мгновенно, как признание в любви.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="953127360392" group_id="850661765372" available="true">
+<url>https://bokalwina.ru/omega_gravitas?editionuid=953127360392</url>
+<price>44000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3831-3464-4430-a166-333733656437/59801487.png</picture>
+<name>Omega Gravitas - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокал для винных хулигановНаклон — как вызов.Форма — как искушение.Вина раскрываются мгновенно, как признание в любви.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="463729172442" group_id="164662729772" available="true">
+<url>https://bokalwina.ru/sweet_wine?editionuid=463729172442</url>
+<price>13500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor6533-6661-4038-b738-366366336630/72048922.png</picture>
+<name>Sweet Wine - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокал-аккомпаниатор для сладких симфонийВ нём оживают медовые ноты Сотерна, переливаются тёплые обертоны Порто, раскрывается вся глубина выдержанного сингл молта. Форма, созданная для гармонии — когда сладость становится изысканной, а крепость — утончённой.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="918646644372" group_id="164662729772" available="true">
+<url>https://bokalwina.ru/sweet_wine?editionuid=918646644372</url>
+<price>38500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor6533-6661-4038-b738-366366336630/72048922.png</picture>
+<name>Sweet Wine - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокал-аккомпаниатор для сладких симфонийВ нём оживают медовые ноты Сотерна, переливаются тёплые обертоны Порто, раскрывается вся глубина выдержанного сингл молта. Форма, созданная для гармонии — когда сладость становится изысканной, а крепость — утончённой.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="741074917812" group_id="896124940692" available="true">
+<url>https://bokalwina.ru/sweet_digestif?editionuid=741074917812</url>
+<price>11200</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3435-3164-4662-b236-366664623037/78714900.png</picture>
+<name>Digestif - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Для изящных и элегантных ликеров и дистиллятов. Идеально раскрывает вкусовые качества и подчеркивает фруктовые нотки аромата напитка. Рекомендовано для: фруктовых дистиллятов, граппы, сладких и горьких ликеров.Объем:#nbsp;160 млВысота: 210 мм]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="824298534552" group_id="896124940692" available="true">
+<url>https://bokalwina.ru/sweet_digestif?editionuid=824298534552</url>
+<price>34000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3435-3164-4662-b236-366664623037/78714900.png</picture>
+<name>Digestif - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Для изящных и элегантных ликеров и дистиллятов. Идеально раскрывает вкусовые качества и подчеркивает фруктовые нотки аромата напитка. Рекомендовано для: фруктовых дистиллятов, граппы, сладких и горьких ликеров.Объем:#nbsp;160 млВысота: 210 мм]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="654964483772" group_id="977087192392" available="true">
+<url>https://bokalwina.ru/zalto_effect?editionuid=654964483772</url>
+<price>11000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3262-3062-4634-b063-343036316338/72848867.png</picture>
+<name>Zalto Effect - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокал-акварельСквозь его грани свет рисует узоры, вода обретает благородство, а обычный обед — черты церемонии.Легкий, как дыхание, но запоминающийся, как искусство.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="100833271212" group_id="977087192392" available="true">
+<url>https://bokalwina.ru/zalto_effect?editionuid=100833271212</url>
+<price>31000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3262-3062-4634-b063-343036316338/72848867.png</picture>
+<name>Zalto Effect - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокал-акварельСквозь его грани свет рисует узоры, вода обретает благородство, а обычный обед — черты церемонии.Легкий, как дыхание, но запоминающийся, как искусство.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="135070442662" group_id="949028751662" available="true">
+<url>https://bokalwina.ru/zalto_water?editionuid=135070442662</url>
+<price>14100</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3537-3136-4235-b535-626230616561/14903109.png</picture>
+<name>Zalto Water - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокал-дипломатМежду водой и вином, между пивом и соком — он находит слова, когда другие молчат.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="679619639132" group_id="949028751662" available="true">
+<url>https://bokalwina.ru/zalto_water?editionuid=679619639132</url>
+<price>41000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3537-3136-4235-b535-626230616561/14903109.png</picture>
+<name>Zalto Water - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Бокал-дипломатМежду водой и вином, между пивом и соком — он находит слова, когда другие молчат.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="802696031492" group_id="310740871412" available="true">
+<url>https://bokalwina.ru/zalto_beer?editionuid=802696031492</url>
+<price>14500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3161-3334-4763-a466-646533376264/72771628.png</picture>
+<name>Zalto Beer - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Хмельная грацияПена — как облако.Вкус — как откровение.Форма — как признание в любви к пиву.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="912473997492" group_id="310740871412" available="true">
+<url>https://bokalwina.ru/zalto_beer?editionuid=912473997492</url>
+<price>43500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3161-3334-4763-a466-646533376264/72771628.png</picture>
+<name>Zalto Beer - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Хмельная грацияПена — как облако.Вкус — как откровение.Форма — как признание в любви к пиву.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="176000530872" group_id="176000530872" available="true">
+<url>https://bokalwina.ru/zalto_axium_decanter</url>
+<price>16500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3535-3938-4536-a362-653935333533/44879353.png</picture>
+<name>Zalto Axium Decanter</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Дыхание винаДекантировать — значит любить неторопливо.]]></description>
+</offer>
+<offer id="618670246672" group_id="618670246672" available="true">
+<url>https://bokalwina.ru/zalto_mystique_decanter</url>
+<price>17700</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3331-3437-4664-b134-336432666161/31259455.png</picture>
+<name>Zalto Mystique Decanter</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Декантер для мощных винГде бордо дышит, как спящий лев, а бароло просыпается после долгого сна.Объёмные плечи дают простор глубоким ароматам — пусть танины смягчаются, а характер остаётся.]]></description>
+</offer>
+<offer id="718967834262" group_id="353759078822" available="true">
+<url>https://bokalwina.ru/zalto_grafin?editionuid=718967834262</url>
+<price>10500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3632-3465-4764-b666-646633363264/92475625.png</picture>
+<name>Zalto Графин - 250мл</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Для крепких характеров, достойных изящного обрамления.]]></description>
+<param name="Количество">250мл</param>
+</offer>
+<offer id="229661569772" group_id="353759078822" available="true">
+<url>https://bokalwina.ru/zalto_grafin?editionuid=229661569772</url>
+<price>15000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3632-3465-4764-b666-646633363264/92475625.png</picture>
+<name>Zalto Графин - 750мл</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Для крепких характеров, достойных изящного обрамления.]]></description>
+<param name="Количество">750мл</param>
+</offer>
+<offer id="585774495422" group_id="353759078822" available="true">
+<url>https://bokalwina.ru/zalto_grafin?editionuid=585774495422</url>
+<price>17000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3632-3465-4764-b666-646633363264/92475625.png</picture>
+<name>Zalto Графин - 1500мл</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Для крепких характеров, достойных изящного обрамления.]]></description>
+<param name="Количество">1500мл</param>
+</offer>
+<offer id="937619297952" group_id="902848775522" available="true">
+<url>https://bokalwina.ru/lehmann_signature_jamesse_synergie?editionuid=937619297952</url>
+<price>17500</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor6663-3564-4233-b035-353064303032/43369847.png</picture>
+<name>Lehmann Signature Jamesse - Synergie - 2 шт</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Создан совместно с Филиппом Джамессе (Philippe Jamеsse), шеф-поваром в замке Michelin Domaine Les Crayeres.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="813281347282" group_id="902848775522" available="true">
+<url>https://bokalwina.ru/lehmann_signature_jamesse_synergie?editionuid=813281347282</url>
+<price>40000</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor6663-3564-4233-b035-353064303032/43369847.png</picture>
+<name>Lehmann Signature Jamesse - Synergie - 6 шт (набор)</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Создан совместно с Филиппом Джамессе (Philippe Jamеsse), шеф-поваром в замке Michelin Domaine Les Crayeres.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="462499441392" group_id="687173601292" available="true">
+<url>https://bokalwina.ru/lehmann_signature_lallement-4-43?editionuid=462499441392</url>
+<price>17500</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor3839-6534-4337-b135-636537613438/27657973.png</picture>
+<name>Lehmann Signature A. Lallement № 4 - 43 - 2 шт</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Ультралегкий бокал изящной формы, который позволяет раскрыть самые тонкие оттенки аромата и подчеркивает восхитительную свежесть вкуса.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="154030794742" group_id="687173601292" available="true">
+<url>https://bokalwina.ru/lehmann_signature_lallement-4-43?editionuid=154030794742</url>
+<price>40000</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor3839-6534-4337-b135-636537613438/27657973.png</picture>
+<name>Lehmann Signature A. Lallement № 4 - 43 - 6 шт (набор)</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Ультралегкий бокал изящной формы, который позволяет раскрыть самые тонкие оттенки аромата и подчеркивает восхитительную свежесть вкуса.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="475354250852" group_id="395933772702" available="true">
+<url>https://bokalwina.ru/lehmann_lallement-1-77?editionuid=475354250852</url>
+<price>17500</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor6636-6565-4332-a263-656432366331/82570394.png</picture>
+<name>Lehmann Signature Lallement №1 -77 - 2 шт</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Ультралегкий бокал для вина ручной работы создан по дизайну трехзвездочного мишленовского шефа и ресторатора Арнауда Лаллемент (Arnaud Lallement.)]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="452676685202" group_id="395933772702" available="true">
+<url>https://bokalwina.ru/lehmann_lallement-1-77?editionuid=452676685202</url>
+<price>40000</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor6636-6565-4332-a263-656432366331/82570394.png</picture>
+<name>Lehmann Signature Lallement №1 -77 - 6 шт (набор)</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Ультралегкий бокал для вина ручной работы создан по дизайну трехзвездочного мишленовского шефа и ресторатора Арнауда Лаллемент (Arnaud Lallement.)]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="319996354422" group_id="307845165952" available="true">
+<url>https://bokalwina.ru/lehmann_signature_jamesse_grand_blanc?editionuid=319996354422</url>
+<price>17500</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor3166-6262-4133-a362-363230316637/13477927.png</picture>
+<name>Lehmann Signature P. Jamesse Grand Blanc - 2 шт</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Элегантная и объемная чаша, раскрытая как бутон. соблазнительное сужение которой манит и искушает вас.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="355906712752" group_id="307845165952" available="true">
+<url>https://bokalwina.ru/lehmann_signature_jamesse_grand_blanc?editionuid=355906712752</url>
+<price>40000</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor3166-6262-4133-a362-363230316637/13477927.png</picture>
+<name>Lehmann Signature P. Jamesse Grand Blanc - 6 шт (набор)</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Элегантная и объемная чаша, раскрытая как бутон. соблазнительное сужение которой манит и искушает вас.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="688919914102" group_id="763248758072" available="true">
+<url>https://bokalwina.ru/lehmann_signature_ultra_light_ariane-88?editionuid=688919914102</url>
+<price>17500</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor6338-3363-4166-b764-396436313537/13061689.png</picture>
+<name>Lehmann Signature Ultra Light Ariane 88 - 2 шт</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Чистые и точные изгибы бокала тонко подчеркивают ароматическое благородство вин Гран Крю.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="216175109632" group_id="763248758072" available="true">
+<url>https://bokalwina.ru/lehmann_signature_ultra_light_ariane-88?editionuid=216175109632</url>
+<price>40000</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor6338-3363-4166-b764-396436313537/13061689.png</picture>
+<name>Lehmann Signature Ultra Light Ariane 88 - 6 шт (набор)</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Чистые и точные изгибы бокала тонко подчеркивают ароматическое благородство вин Гран Крю.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="951557486302" group_id="442551620142" available="true">
+<url>https://bokalwina.ru/lehmann_signature_ultra_light_ariane-88?editionuid=951557486302</url>
+<price>19800</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor3766-3831-4134-b965-663334666136/51072157.png</picture>
+<name>Lehmann Montreal 17 cl из коллекции F.Thhireau - 6 шт (набор)</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Экстравагантный и в тоже время элегантный бокал для коктейлей без льда и для шампанского]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="643450209392" group_id="456997173942" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_red_burgundy?editionuid=643450209392</url>
+<price>18500</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor3833-3933-4363-b735-636564663634/63177333.png</picture>
+<name>Markthomas Double Bend Red Burgundy - 2 шт</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Подходит для выразительных, многосложных красных вин из сортов Grenache, Pinot Noir, Nebbiolo, Mourvedre]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="550460179692" group_id="456997173942" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_red_burgundy?editionuid=550460179692</url>
+<price>53000</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor3833-3933-4363-b735-636564663634/63177333.png</picture>
+<name>Markthomas Double Bend Red Burgundy - 6 шт (набор)</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Подходит для выразительных, многосложных красных вин из сортов Grenache, Pinot Noir, Nebbiolo, Mourvedre]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="750604635902" group_id="750604635902" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_decanter</url>
+<price>27000</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor3532-3764-4635-b538-653338343161/86601321.png</picture>
+<name>Markthomas Double Bend Decanter Magnum</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Подходит для выразительных, многосложных красных вин из сортов Grenache, Pinot Noir, Nebbiolo, Mourvedre]]></description>
+</offer>
+<offer id="999266905312" group_id="618005197582" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_champagne?editionuid=999266905312</url>
+<price>17500</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor6565-3630-4730-b862-323361353335/26785772.png</picture>
+<name>Markthomas Double Bend Champagne - 2 шт</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Предназначен для наслаждения игристым вином – но создан специально для шампанского]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="453048787652" group_id="618005197582" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_champagne?editionuid=453048787652</url>
+<price>49000</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor6565-3630-4730-b862-323361353335/26785772.png</picture>
+<name>Markthomas Double Bend Champagne - 6 шт (набор)</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Предназначен для наслаждения игристым вином – но создан специально для шампанского]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="384341691922" group_id="106261828232" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_allround?editionuid=384341691922</url>
+<price>17000</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor3761-3462-4538-a565-643434643861/90749516.png</picture>
+<name>Markthomas Double Bend Allround - 2 шт</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Подходит для всех красных и белых вин средней категории]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="293218585912" group_id="106261828232" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_allround?editionuid=293218585912</url>
+<price>49000</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor3761-3462-4538-a565-643434643861/90749516.png</picture>
+<name>Markthomas Double Bend Allround - 6 шт (набор)</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Подходит для всех красных и белых вин средней категории]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="479848341942" group_id="450310660962" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_tumbler?editionuid=479848341942</url>
+<price>12000</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor3533-3832-4333-b636-646464616164/34940108.png</picture>
+<name>Markthomas Double Bend Tumbler - 2 шт</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Барный бокал необычной формы для воды, сока, коктейлей "on the rocks"]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="296016787882" group_id="450310660962" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_tumbler?editionuid=296016787882</url>
+<price>36000</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor3533-3832-4333-b636-646464616164/34940108.png</picture>
+<name>Markthomas Double Bend Tumbler - 6 шт (набор)</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Барный бокал необычной формы для воды, сока, коктейлей "on the rocks"]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="962280343862" group_id="210473926942" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_tumbler?editionuid=962280343862</url>
+<price>16500</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor6632-6631-4530-a637-663738353032/71888915.png</picture>
+<name>Markthomas Double Bend White - 2 шт</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Подходят для молодых и свежих белых вина, освежающих розовых, а также марочного шампанского.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="459753447742" group_id="210473926942" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_tumbler?editionuid=459753447742</url>
+<price>48000</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor6632-6631-4530-a637-663738353032/71888915.png</picture>
+<name>Markthomas Double Bend White - 6 шт (набор)</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Подходят для молодых и свежих белых вина, освежающих розовых, а также марочного шампанского.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="329213726142" group_id="510264789662" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_red_expression?editionuid=329213726142</url>
+<price>17000</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor6530-3234-4438-b333-376234306138/30356090.png</picture>
+<name>Markthomas Double Bend Red Expression - 2 шт</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Подходят для красных вин в стиле Бордо бленд и вин сортов Каберне Совиньон, Мерло, Каберне Фран, Сира и других красных сортов.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="925805692692" group_id="510264789662" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_red_expression?editionuid=925805692692</url>
+<price>49000</price>
+<currencyId>RUR</currencyId>
+<categoryId>5</categoryId>
+<picture>https://static.tildacdn.com/stor6530-3234-4438-b333-376234306138/30356090.png</picture>
+<name>Markthomas Double Bend Red Expression - 6 шт (набор)</name>
+<vendor>Markthomas</vendor>
+<description><![CDATA[Подходят для красных вин в стиле Бордо бленд и вин сортов Каберне Совиньон, Мерло, Каберне Фран, Сира и других красных сортов.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="292072728772" group_id="865000928732" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_sweet_wine?editionuid=292072728772</url>
+<price>16500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3230-3333-4639-b831-346130613133/27373622.png</picture>
+<name>Markthomas Double Bend Sweet Wine - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Подходит для всех сладких вин, крепленых вин типа портвейн а также дижестивов и крепких напитков (коньяк, арманьяк, шерри, бренди)]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="687862297882" group_id="865000928732" available="true">
+<url>https://bokalwina.ru/markthomas_double_bend_sweet_wine?editionuid=687862297882</url>
+<price>47000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor3230-3333-4639-b831-346130613133/27373622.png</picture>
+<name>Markthomas Double Bend Sweet Wine - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Подходит для всех сладких вин, крепленых вин типа портвейн а также дижестивов и крепких напитков (коньяк, арманьяк, шерри, бренди)]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="172489346162" group_id="475927985182" available="true">
+<url>https://bokalwina.ru/terroir_empreinte?editionuid=172489346162</url>
+<price>17200</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3261-6133-4466-b233-393938323932/62636882.png</picture>
+<name>Sydonios Terroir Empreinte - 2 шт</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеален для шампанского и белых вин категории Grand Cru]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="760661197582" group_id="475927985182" available="true">
+<url>https://bokalwina.ru/terroir_empreinte?editionuid=760661197582</url>
+<price>49900</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3261-6133-4466-b233-393938323932/62636882.png</picture>
+<name>Sydonios Terroir Empreinte - 6 шт (набор)</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеален для шампанского и белых вин категории Grand Cru]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="511875063622" group_id="402817793502" available="true">
+<url>https://bokalwina.ru/terroir_le_septentrional?editionuid=511875063622</url>
+<price>18000</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3865-3164-4462-a534-393962623632/10691764.png</picture>
+<name>Sydonios Terroir le Septentrional - 2 шт</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеален для красных вин Бургундии и вин из сорта Пино нуар и Небиолло категории Grand Cru]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="622720137732" group_id="402817793502" available="true">
+<url>https://bokalwina.ru/terroir_le_septentrional?editionuid=622720137732</url>
+<price>49900</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3865-3164-4462-a534-393962623632/10691764.png</picture>
+<name>Sydonios Terroir le Septentrional - 6 шт (набор)</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеален для красных вин Бургундии и вин из сорта Пино нуар и Небиолло категории Grand Cru]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="762363508652" group_id="423381285382" available="true">
+<url>https://bokalwina.ru/terroir_le_meridional?editionuid=762363508652</url>
+<price>17500</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3061-6634-4535-b961-303464333635/18769282.png</picture>
+<name>Sydonios Terroir le Meridional - 2 шт</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеален для насыщенных и танинных красных вин категории Grand Cru]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="816580827502" group_id="423381285382" available="true">
+<url>https://bokalwina.ru/terroir_le_meridional?editionuid=816580827502</url>
+<price>49900</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3061-6634-4535-b961-303464333635/18769282.png</picture>
+<name>Sydonios Terroir le Meridional - 6 шт (набор)</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеален для насыщенных и танинных красных вин категории Grand Cru]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="490924863612" group_id="490924863612" available="true">
+<url>https://bokalwina.ru/terroir_lesthete</url>
+<price>11500</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3838-3737-4932-b262-343962306638/95613144.png</picture>
+<name>Sydonios Terroir l’Esthete</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеален для танинных и насыщенных красных вин]]></description>
+</offer>
+<offer id="767609522802" group_id="169012346452" available="true">
+<url>https://bokalwina.ru/rasin_luniversel?editionuid=767609522802</url>
+<price>14000</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3364-3137-4139-b664-356533303836/37897115.png</picture>
+<name>Sydonios Rasin L’Universel - 2 шт</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Подходит для всех белых, игристых и сладких вин]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="200463170682" group_id="169012346452" available="true">
+<url>https://bokalwina.ru/rasin_luniversel?editionuid=200463170682</url>
+<price>41500</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3364-3137-4139-b664-356533303836/37897115.png</picture>
+<name>Sydonios Rasin L’Universel - 6 шт (набор)</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Подходит для всех белых, игристых и сладких вин]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="225568946022" group_id="741336470462" available="true">
+<url>https://bokalwina.ru/rasin_lesthete?editionuid=225568946022</url>
+<price>14000</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3236-3233-4133-b662-373066316231/89061305.png</picture>
+<name>Sydonios Rasin L’Esthete - 2 шт</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеально раскроет ваши красные выдержанные вина]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="299133303762" group_id="741336470462" available="true">
+<url>https://bokalwina.ru/rasin_lesthete?editionuid=299133303762</url>
+<price>42000</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3236-3233-4133-b662-373066316231/89061305.png</picture>
+<name>Sydonios Rasin L’Esthete - 6 шт (набор)</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеально раскроет ваши красные выдержанные вина]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="209286790042" group_id="292056170132" available="true">
+<url>https://bokalwina.ru/raisin_l_subtil?editionuid=209286790042</url>
+<price>14000</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3538-6630-4165-a266-633331333034/95410226.png</picture>
+<name>Sydonios Rasin Lе Subtil - 2 шт</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеален для красных вин Бургундии и вин из сорта Пино нуар]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="354409965052" group_id="292056170132" available="true">
+<url>https://bokalwina.ru/raisin_l_subtil?editionuid=354409965052</url>
+<price>42000</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor3538-6630-4165-a266-633331333034/95410226.png</picture>
+<name>Sydonios Rasin Lе Subtil - 6 шт (набор)</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Идеален для красных вин Бургундии и вин из сорта Пино нуар]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="558391243222" group_id="558391243222" available="true">
+<url>https://bokalwina.ru/rasin_luniversel_decanter</url>
+<price>11500</price>
+<currencyId>RUR</currencyId>
+<categoryId>6</categoryId>
+<picture>https://static.tildacdn.com/stor6238-6365-4332-a663-633438326336/93309274.png</picture>
+<name>Sydonios l’Universel</name>
+<vendor>Sydonios</vendor>
+<description><![CDATA[Декантер для белых и легких красных вин]]></description>
+</offer>
+<offer id="964473114932" group_id="432968399812" available="true">
+<url>https://bokalwina.ru/spiegelau_weisswein?editionuid=964473114932</url>
+<price>7300</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor3237-6638-4230-b666-653535666131/93044653.png</picture>
+<name>Spiegelau Weisswein - 2 шт</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Бокал идеально подходит для молодых невыдержанных, для вин с хрустящей кислотностью, для розовых]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="710439951442" group_id="432968399812" available="true">
+<url>https://bokalwina.ru/spiegelau_weisswein?editionuid=710439951442</url>
+<price>21900</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor3237-6638-4230-b666-653535666131/93044653.png</picture>
+<name>Spiegelau Weisswein - 6 шт (набор)</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Бокал идеально подходит для молодых невыдержанных, для вин с хрустящей кислотностью, для розовых]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="609205123792" group_id="537138219862" available="true">
+<url>https://bokalwina.ru/spiegelau_bourgogne?editionuid=609205123792</url>
+<price>7300</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor3066-3235-4335-b436-613332383734/14394129.png</picture>
+<name>Spiegelau Bourgogne - 2 шт</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Бокал для красных вин с умеренными танинами и достаточно высокой кислотностью]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="876073775992" group_id="537138219862" available="true">
+<url>https://bokalwina.ru/spiegelau_bourgogne?editionuid=876073775992</url>
+<price>21900</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor3066-3235-4335-b436-613332383734/14394129.png</picture>
+<name>Spiegelau Bourgogne - 6 шт (набор)</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Бокал для красных вин с умеренными танинами и достаточно высокой кислотностью]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="506723864242" group_id="713422965692" available="true">
+<url>https://bokalwina.ru/spiegelau_universal?editionuid=506723864242</url>
+<price>7300</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor3438-3436-4130-b561-633866356339/19946393.png</picture>
+<name>Spiegelau Universal - 2 шт</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Правильная, классическая чаша бокалов подходит для подачи большинства минеральных белых вин, легких красных и выдержанных игристых.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="879906177702" group_id="713422965692" available="true">
+<url>https://bokalwina.ru/spiegelau_universal?editionuid=879906177702</url>
+<price>21900</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor3438-3436-4130-b561-633866356339/19946393.png</picture>
+<name>Spiegelau Universal - 6 шт (набор)</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Правильная, классическая чаша бокалов подходит для подачи большинства минеральных белых вин, легких красных и выдержанных игристых.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="165736878462" group_id="527324558192" available="true">
+<url>https://bokalwina.ru/spiegelau_champagne?editionuid=165736878462</url>
+<price>7300</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor6139-3836-4637-b865-646637646365/67072614.png</picture>
+<name>Spiegelau Champagne - 2 шт</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Рекомендован для подачи всех типов шампанских и игристых вин]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="373188113362" group_id="527324558192" available="true">
+<url>https://bokalwina.ru/spiegelau_champagne?editionuid=373188113362</url>
+<price>21900</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor6139-3836-4637-b865-646637646365/67072614.png</picture>
+<name>Spiegelau Champagne - 6 шт (набор)</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Рекомендован для подачи всех типов шампанских и игристых вин]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="823556273262" group_id="355897197582" available="true">
+<url>https://bokalwina.ru/spiegelau_bordeaux?editionuid=823556273262</url>
+<price>7300</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor6637-6338-4730-a264-366331393664/20233772.png</picture>
+<name>Spiegelau Bordeaux - 2 шт</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[В этом бокале великолепные вина Бордо могут полностью раскрыть свой потенциал. Классический бокал для полнотелых красных вин]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="608569192822" group_id="355897197582" available="true">
+<url>https://bokalwina.ru/spiegelau_bordeaux?editionuid=608569192822</url>
+<price>21900</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor6637-6338-4730-a264-366331393664/20233772.png</picture>
+<name>Spiegelau Bordeaux - 6 шт (набор)</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[В этом бокале великолепные вина Бордо могут полностью раскрыть свой потенциал. Классический бокал для полнотелых красных вин]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="783504578942" group_id="783504578942" available="true">
+<url>https://bokalwina.ru/spiegelau_tumbler</url>
+<price>4500</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor3238-6636-4561-a466-623934353130/93373909.png</picture>
+<name>Spiegelau Tumbler</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Небольшой бокал идеально подходит для подачи воды, свежих фруктовых напитков, соков и коктейлей со льдом.]]></description>
+</offer>
+<offer id="386392824592" group_id="386392824592" available="true">
+<url>https://bokalwina.ru/spiegelau_lifestyle_wine</url>
+<price>4500</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor3163-3430-4538-b661-313532613963/80023982.png</picture>
+<name>Spiegelau Lifestyle для красных вин</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Этот бокал с широкой чашей идеально раскрывает вино. Его форма помогает смягчить вкус и выпустить весь букет ароматов. Даже простое вино в таком бокале заиграет новыми оттенками, а выдержанные сорта покажут всю свою глубину. Просто налейте - и наслаждайтесь каждым глотком.]]></description>
+</offer>
+<offer id="569184957382" group_id="569184957382" available="true">
+<url>https://bokalwina.ru/spiegelau_lifestyle_cocktail</url>
+<price>4500</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor3833-3232-4339-b037-663735353632/76217955.png</picture>
+<name>Spiegelau Lifestyle для коктейлей и игристых</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[В нем идеально смотрятся и игристые вина, и авторские коктейли. А благодаря широкой чаше в нем можно эффектно подавать десерты — от воздушных муссов до свежих фруктовых композиций.]]></description>
+</offer>
+<offer id="737415150542" group_id="737415150542" available="true">
+<url>https://bokalwina.ru/stopki_dlya_vodki</url>
+<price>20000</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor6639-3263-4161-a234-323532306438/74f1402d661febc4e370d8cce9b6348f.png</picture>
+<name>Стопки для крепких напитков Vista Alegre Vynil</name>
+<vendor>Vista Alegre</vendor>
+<description><![CDATA[Вдохновением для роскошной и многогранной серии Vinyl послужил стиль ар-деко. Эти предметы перенесут в ваш дом изысканную атмосферу коктейль-баров 1930-х годов. Шот имеет свою уникальную форму и необычный дизайн.Коллекция создана из уникального хрусталя Atlantis, одного из лучших в своем классе. Особый состав придает ему исключительную чистоту, прозрачность и, что несвойственно для такого изящного материала, впечатляющую прочность с износостойкостью. Каждый предмет выдувают вручную опытные мастера Vista Alegre, а затем подвергают мягкой шлифовке, которая дарит поверхности роскошный глянец и безупречную гладкость.Сегодня посуду, бокалы и декор Vista Alegre изготавливают в Португалии по традиционным технологиям с элементами ручной работы — как и 200 лет назад.Комплектация:2 стопки. Объем каждой стопки 80 мл.]]></description>
+</offer>
+<offer id="316426947932" group_id="820590466562" available="true">
+<url>https://bokalwina.ru/highland?editionuid=316426947932</url>
+<price>6500</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor3134-3966-4033-a336-363137343433/45542947.png</picture>
+<name>Стаканы для виски Nachtmann Highland - 4 шт</name>
+<vendor>Nachtmann</vendor>
+<description><![CDATA[Подходят для виски, бурбона, скотча, рома, а также для различных коктейлей]]></description>
+<param name="Количество">4 шт</param>
+</offer>
+<offer id="939414744252" group_id="888697853022" available="true">
+<url>https://bokalwina.ru/artic_vista_alegre?editionuid=939414744252</url>
+<price>63000</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor6163-3138-4532-b262-313163356235/8ebbf4f33f18435d5843e94666a3cc54.png</picture>
+<name>Набор для водки Artic Vista Alegre - 5 шт (набор)</name>
+<vendor>Vista Alegre</vendor>
+<description><![CDATA[Графин и 4 стопки. Португалия.]]></description>
+<param name="Количество">5 шт (набор)</param>
+</offer>
+<offer id="601241375212" group_id="720557876312" available="true">
+<url>https://bokalwina.ru/spiegelau_special_glasses?editionuid=601241375212</url>
+<price>10000</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor3631-3934-4462-b362-393636633066/22931822.webp</picture>
+<name>Spiegelau Willsberger Anniversary - 4 шт</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[бокал для граппы, кальвадоса и других дижестивов.]]></description>
+<param name="Количество">4 шт</param>
+</offer>
+<offer id="994382042712" group_id="139262164732" available="true">
+<url>https://bokalwina.ru/spiegelau_willsberger_anniversary?editionuid=994382042712</url>
+<price>10000</price>
+<currencyId>RUR</currencyId>
+<categoryId>7</categoryId>
+<picture>https://static.tildacdn.com/stor6464-3239-4438-b933-323065333831/47530565.png</picture>
+<name>Spiegelau Willsberger Anniversary - 4 шт</name>
+<vendor>Spiegelau</vendor>
+<description><![CDATA[Бокал на низкой ножке для крепких напитков, позволяет раскрыть аромат и вкус бурбона, виски, кальвадоса. Бокал объемом 340 мл. имеет большую площадь, что позволяет интенсивно аэрироваться напитку.]]></description>
+<param name="Количество">4 шт</param>
+</offer>
+<offer id="678168895042" group_id="768247313122" available="true">
+<url>https://bokalwina.ru/lehmann_gob_excellence___?editionuid=678168895042</url>
+<price>6000</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor3862-6163-4263-a331-373864313466/15066185.png</picture>
+<name>Lehmann Gob. Excellence стаканы для воды - 6 шт (набор)</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Стакан из коллекции Signature A. Lallement. Прозрачное стекло, будто тающее в руке. Совершенно jкруглое, без единой грани — только мягкий изгиб, повторяющий движение воды. Ни метки, ни намёка на иное назначение — просто стакан.Для воды, для сока, для коктейлей.Тихий, нейтральный, вне времени.Ультратонкое стекло. Прозрачность. Прочность. Машинное производствоОбъем: 350млВысота: 95 мм]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
+<offer id="939401205212" group_id="505797071912" available="true">
+<url>https://bokalwina.ru/punk_nachtmann?editionuid=939401205212</url>
+<price>6500</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor3239-6464-4430-b734-646338373034/82610126.jpg</picture>
+<name>Стаканы для виски Punk Nachtmann - 4 шт</name>
+<vendor>Nachtmann</vendor>
+<description><![CDATA[Коллекция Punk от Nachtmann: смелый дизайн с безупречным качеством]]></description>
+<param name="Количество">4 шт</param>
+</offer>
+<offer id="518277460602" group_id="597199797182" available="true">
+<url>https://bokalwina.ru/zalto_balance?editionuid=518277460602</url>
+<price>15500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor6535-3463-4231-a338-306335303561/2f3c6f81091cf26b7618817597270d8a.png</picture>
+<name>Zalto Balance - 2 шт</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Идеален для зрелых вин.Он создан для выдержанных красных и белых, выдержанных в бочке, а также для сложного игристого и шампанского с долгой выдержкой на осадке.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="422285340142" group_id="422285340142" available="true">
+<url>https://bokalwina.ru/tproduct/2233332781-422285340142-lehmann-sydney-stakani-dlya-viski-i-kokt</url>
+<price>17000</price>
+<currencyId>RUR</currencyId>
+<categoryId>4</categoryId>
+<picture>https://static.tildacdn.com/stor6338-6665-4530-b333-656366303064/82b5836685fef40f5f921040632096f3.jpg</picture>
+<name>Lehmann Sydney стаканы для виски и коктейлей</name>
+<vendor>Lehmann</vendor>
+<description><![CDATA[Авангард, влюблённый в гармонию.]]></description>
+</offer>
+<offer id="265295859972" group_id="381289036542" available="true">
+<url>https://bokalwina.ru/lsa_international?editionuid=265295859972</url>
+<price>15500</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor6263-3838-4238-b739-616231346133/9d85548450cd92fef4ccb52ebdcbbb0f.jpg</picture>
+<name>Стаканы для виски Biarritz от Vista Alegre - 2 шт</name>
+<vendor>Vista Alegre</vendor>
+<description><![CDATA[Отблески Биаррица в ваших руках.]]></description>
+<param name="Количество">2 шт</param>
+</offer>
+<offer id="822723262512" group_id="453186370162" available="true">
+<url>https://bokalwina.ru/highland?editionuid=822723262512</url>
+<price>6500</price>
+<currencyId>RUR</currencyId>
+<categoryId>8</categoryId>
+<picture>https://static.tildacdn.com/stor3237-3865-4036-a532-323735313134/3be087a580c123a09d2ca7d48676db07.png</picture>
+<name>Стаканы для виски Shu Fa от Nachtmann - 4 шт</name>
+<vendor>Nachtmann</vendor>
+<description><![CDATA[Там, где немецкое качество встречает восточную философию дизайна.]]></description>
+<param name="Количество">4 шт</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
