@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-23 15:53">
+<yml_catalog date="2026-08-23 16:59">
 <shop>
 <name>Бокалвина</name>
 <company>Бокалвина</company>
@@ -715,7 +715,8 @@
 </offer>
 <offer id="687862297882" group_id="865000928732" available="true">
 <url>https://bokalwina.ru/markthomas_double_bend_sweet_wine?editionuid=687862297882</url>
-<price>47000</price>
+<price>45000</price>
+<oldprice>47000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3230-3333-4639-b831-346130613133/27373622.png</picture>
