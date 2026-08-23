@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-23 14:58">
+<yml_catalog date="2026-08-23 15:48">
 <shop>
 <name>Бокалвина</name>
 <company>Бокалвина</company>
@@ -532,7 +532,7 @@
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="951557486302" group_id="442551620142" available="true">
-<url>https://bokalwina.ru/lehmann_signature_ultra_light_ariane-88?editionuid=951557486302</url>
+<url>https://bokalwina.ru/tproduct/2233332781-442551620142-lehmann-montreal-17-cl-iz-kollektsii-fth?editionuid=951557486302</url>
 <price>19800</price>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
@@ -641,7 +641,7 @@
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="962280343862" group_id="210473926942" available="true">
-<url>https://bokalwina.ru/markthomas_double_bend_tumbler?editionuid=962280343862</url>
+<url>https://bokalwina.ru/markthomas_double_bend_sweet_wine/tproduct/1027709971-210473926942-markthomas-double-bend-white?editionuid=962280343862</url>
 <price>16500</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
@@ -652,7 +652,7 @@
 <param name="Количество">2 шт</param>
 </offer>
 <offer id="459753447742" group_id="210473926942" available="true">
-<url>https://bokalwina.ru/markthomas_double_bend_tumbler?editionuid=459753447742</url>
+<url>https://bokalwina.ru/markthomas_double_bend_sweet_wine/tproduct/1027709971-210473926942-markthomas-double-bend-white?editionuid=459753447742</url>
 <price>48000</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
@@ -1085,6 +1085,17 @@
 <description><![CDATA[Идеален для зрелых вин.Он создан для выдержанных красных и белых, выдержанных в бочке, а также для сложного игристого и шампанского с долгой выдержкой на осадке.]]></description>
 <param name="Количество">2 шт</param>
 </offer>
+<offer id="753042710492" group_id="597199797182" available="true">
+<url>https://bokalwina.ru/zalto_balance?editionuid=753042710492</url>
+<price>46500</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor6535-3463-4231-a338-306335303561/2f3c6f81091cf26b7618817597270d8a.png</picture>
+<name>Zalto Balance - 6 шт (набор)</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Идеален для зрелых вин.Он создан для выдержанных красных и белых, выдержанных в бочке, а также для сложного игристого и шампанского с долгой выдержкой на осадке.]]></description>
+<param name="Количество">6 шт (набор)</param>
+</offer>
 <offer id="422285340142" group_id="422285340142" available="true">
 <url>https://bokalwina.ru/tproduct/2233332781-422285340142-lehmann-sydney-stakani-dlya-viski-i-kokt</url>
 <price>17000</price>
@@ -1107,7 +1118,7 @@
 <param name="Количество">2 шт</param>
 </offer>
 <offer id="822723262512" group_id="453186370162" available="true">
-<url>https://bokalwina.ru/highland?editionuid=822723262512</url>
+<url>https://bokalwina.ru/453186370162/tproduct/2390750301-453186370162-stakani-dlya-viski-shu-fa-ot-nachtmann?editionuid=822723262512</url>
 <price>6500</price>
 <currencyId>RUR</currencyId>
 <categoryId>8</categoryId>

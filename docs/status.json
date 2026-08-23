@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-23T11:58:42+00:00",
+  "updated": "2026-08-23T12:48:13+00:00",
   "source_rows": 102,
-  "offers": 101,
+  "offers": 102,
   "categories": [
     "Бокалы и посуда",
     "Josephine",
@@ -12,10 +12,5 @@
     "Spiegelau",
     "Посуда для крепких напитков"
   ],
-  "skipped": [
-    [
-      "Zalto Balance - 6 шт (набор)",
-      "нет цены"
-    ]
-  ]
+  "skipped": []
 }
