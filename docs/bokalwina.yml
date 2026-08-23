@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-23 15:48">
+<yml_catalog date="2026-08-23 15:51">
 <shop>
 <name>Бокалвина</name>
 <company>Бокалвина</company>
@@ -139,7 +139,8 @@
 </offer>
 <offer id="192440736212" group_id="365984786872" available="true">
 <url>https://bokalwina.ru/zalto_white_wine?editionuid=192440736212</url>
-<price>39000</price>
+<price>38000</price>
+<oldprice>39000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3864-3336-4332-b163-616531393731/54202158.png</picture>
@@ -150,7 +151,8 @@
 </offer>
 <offer id="280173349382" group_id="527770668042" available="true">
 <url>https://bokalwina.ru/zalto_bourgogne?editionuid=280173349382</url>
-<price>15400</price>
+<price>15000</price>
+<oldprice>15400</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor6431-3937-4865-b538-313438643939/19280896.png</picture>
@@ -172,7 +174,8 @@
 </offer>
 <offer id="959363777902" group_id="509840809972" available="true">
 <url>https://bokalwina.ru/zalto_champagne?editionuid=959363777902</url>
-<price>14200</price>
+<price>13500</price>
+<oldprice>14200</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3339-6164-4430-a665-663861313864/73080589.png</picture>
@@ -216,7 +219,8 @@
 </offer>
 <offer id="419749122122" group_id="990342995072" available="true">
 <url>https://bokalwina.ru/zalto_universal?editionuid=419749122122</url>
-<price>15300</price>
+<price>14300</price>
+<oldprice>15300</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3337-3862-4732-b138-313764333335/87280644.png</picture>
@@ -227,7 +231,8 @@
 </offer>
 <offer id="836679915592" group_id="990342995072" available="true">
 <url>https://bokalwina.ru/zalto_universal?editionuid=836679915592</url>
-<price>42500</price>
+<price>41500</price>
+<oldprice>42500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3337-3862-4732-b138-313764333335/87280644.png</picture>
@@ -423,7 +428,8 @@
 </offer>
 <offer id="937619297952" group_id="902848775522" available="true">
 <url>https://bokalwina.ru/lehmann_signature_jamesse_synergie?editionuid=937619297952</url>
-<price>17500</price>
+<price>17000</price>
+<oldprice>17500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor6663-3564-4233-b035-353064303032/43369847.png</picture>
@@ -434,7 +440,8 @@
 </offer>
 <offer id="813281347282" group_id="902848775522" available="true">
 <url>https://bokalwina.ru/lehmann_signature_jamesse_synergie?editionuid=813281347282</url>
-<price>40000</price>
+<price>38500</price>
+<oldprice>40000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor6663-3564-4233-b035-353064303032/43369847.png</picture>
@@ -445,7 +452,8 @@
 </offer>
 <offer id="462499441392" group_id="687173601292" available="true">
 <url>https://bokalwina.ru/lehmann_signature_lallement-4-43?editionuid=462499441392</url>
-<price>17500</price>
+<price>17000</price>
+<oldprice>17500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor3839-6534-4337-b135-636537613438/27657973.png</picture>
@@ -456,7 +464,8 @@
 </offer>
 <offer id="154030794742" group_id="687173601292" available="true">
 <url>https://bokalwina.ru/lehmann_signature_lallement-4-43?editionuid=154030794742</url>
-<price>40000</price>
+<price>38500</price>
+<oldprice>40000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor3839-6534-4337-b135-636537613438/27657973.png</picture>
@@ -467,7 +476,8 @@
 </offer>
 <offer id="475354250852" group_id="395933772702" available="true">
 <url>https://bokalwina.ru/lehmann_lallement-1-77?editionuid=475354250852</url>
-<price>17500</price>
+<price>17000</price>
+<oldprice>17500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor6636-6565-4332-a263-656432366331/82570394.png</picture>
@@ -478,7 +488,8 @@
 </offer>
 <offer id="452676685202" group_id="395933772702" available="true">
 <url>https://bokalwina.ru/lehmann_lallement-1-77?editionuid=452676685202</url>
-<price>40000</price>
+<price>38500</price>
+<oldprice>40000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor6636-6565-4332-a263-656432366331/82570394.png</picture>
@@ -489,7 +500,8 @@
 </offer>
 <offer id="319996354422" group_id="307845165952" available="true">
 <url>https://bokalwina.ru/lehmann_signature_jamesse_grand_blanc?editionuid=319996354422</url>
-<price>17500</price>
+<price>17000</price>
+<oldprice>17500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor3166-6262-4133-a362-363230316637/13477927.png</picture>
@@ -500,7 +512,8 @@
 </offer>
 <offer id="355906712752" group_id="307845165952" available="true">
 <url>https://bokalwina.ru/lehmann_signature_jamesse_grand_blanc?editionuid=355906712752</url>
-<price>40000</price>
+<price>38500</price>
+<oldprice>40000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor3166-6262-4133-a362-363230316637/13477927.png</picture>
@@ -511,7 +524,8 @@
 </offer>
 <offer id="688919914102" group_id="763248758072" available="true">
 <url>https://bokalwina.ru/lehmann_signature_ultra_light_ariane-88?editionuid=688919914102</url>
-<price>17500</price>
+<price>17000</price>
+<oldprice>17500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor6338-3363-4166-b764-396436313537/13061689.png</picture>
@@ -522,7 +536,8 @@
 </offer>
 <offer id="216175109632" group_id="763248758072" available="true">
 <url>https://bokalwina.ru/lehmann_signature_ultra_light_ariane-88?editionuid=216175109632</url>
-<price>40000</price>
+<price>38500</price>
+<oldprice>40000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor6338-3363-4166-b764-396436313537/13061689.png</picture>
@@ -533,7 +548,8 @@
 </offer>
 <offer id="951557486302" group_id="442551620142" available="true">
 <url>https://bokalwina.ru/tproduct/2233332781-442551620142-lehmann-montreal-17-cl-iz-kollektsii-fth?editionuid=951557486302</url>
-<price>19800</price>
+<price>18800</price>
+<oldprice>19800</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor3766-3831-4134-b965-663334666136/51072157.png</picture>
@@ -576,7 +592,8 @@
 </offer>
 <offer id="999266905312" group_id="618005197582" available="true">
 <url>https://bokalwina.ru/markthomas_double_bend_champagne?editionuid=999266905312</url>
-<price>17500</price>
+<price>17000</price>
+<oldprice>17500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
 <picture>https://static.tildacdn.com/stor6565-3630-4730-b862-323361353335/26785772.png</picture>
@@ -686,7 +703,8 @@
 </offer>
 <offer id="292072728772" group_id="865000928732" available="true">
 <url>https://bokalwina.ru/markthomas_double_bend_sweet_wine?editionuid=292072728772</url>
-<price>16500</price>
+<price>15500</price>
+<oldprice>16500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3230-3333-4639-b831-346130613133/27373622.png</picture>
@@ -708,7 +726,8 @@
 </offer>
 <offer id="172489346162" group_id="475927985182" available="true">
 <url>https://bokalwina.ru/terroir_empreinte?editionuid=172489346162</url>
-<price>17200</price>
+<price>17000</price>
+<oldprice>17200</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3261-6133-4466-b233-393938323932/62636882.png</picture>
@@ -719,7 +738,8 @@
 </offer>
 <offer id="760661197582" group_id="475927985182" available="true">
 <url>https://bokalwina.ru/terroir_empreinte?editionuid=760661197582</url>
-<price>49900</price>
+<price>48000</price>
+<oldprice>49900</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3261-6133-4466-b233-393938323932/62636882.png</picture>
@@ -730,7 +750,8 @@
 </offer>
 <offer id="511875063622" group_id="402817793502" available="true">
 <url>https://bokalwina.ru/terroir_le_septentrional?editionuid=511875063622</url>
-<price>18000</price>
+<price>17000</price>
+<oldprice>18000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3865-3164-4462-a534-393962623632/10691764.png</picture>
@@ -741,7 +762,8 @@
 </offer>
 <offer id="622720137732" group_id="402817793502" available="true">
 <url>https://bokalwina.ru/terroir_le_septentrional?editionuid=622720137732</url>
-<price>49900</price>
+<price>48000</price>
+<oldprice>49900</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3865-3164-4462-a534-393962623632/10691764.png</picture>
@@ -752,7 +774,8 @@
 </offer>
 <offer id="762363508652" group_id="423381285382" available="true">
 <url>https://bokalwina.ru/terroir_le_meridional?editionuid=762363508652</url>
-<price>17500</price>
+<price>17000</price>
+<oldprice>17500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3061-6634-4535-b961-303464333635/18769282.png</picture>
@@ -763,7 +786,8 @@
 </offer>
 <offer id="816580827502" group_id="423381285382" available="true">
 <url>https://bokalwina.ru/terroir_le_meridional?editionuid=816580827502</url>
-<price>49900</price>
+<price>48000</price>
+<oldprice>49900</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3061-6634-4535-b961-303464333635/18769282.png</picture>
@@ -774,7 +798,8 @@
 </offer>
 <offer id="490924863612" group_id="490924863612" available="true">
 <url>https://bokalwina.ru/terroir_lesthete</url>
-<price>11500</price>
+<price>11000</price>
+<oldprice>11500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3838-3737-4932-b262-343962306638/95613144.png</picture>
@@ -817,7 +842,8 @@
 </offer>
 <offer id="299133303762" group_id="741336470462" available="true">
 <url>https://bokalwina.ru/rasin_lesthete?editionuid=299133303762</url>
-<price>42000</price>
+<price>41500</price>
+<oldprice>42000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3236-3233-4133-b662-373066316231/89061305.png</picture>
@@ -839,7 +865,8 @@
 </offer>
 <offer id="354409965052" group_id="292056170132" available="true">
 <url>https://bokalwina.ru/raisin_l_subtil?editionuid=354409965052</url>
-<price>42000</price>
+<price>41500</price>
+<oldprice>42000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3538-6630-4165-a266-633331333034/95410226.png</picture>
@@ -850,7 +877,8 @@
 </offer>
 <offer id="558391243222" group_id="558391243222" available="true">
 <url>https://bokalwina.ru/rasin_luniversel_decanter</url>
-<price>11500</price>
+<price>11000</price>
+<oldprice>11500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor6238-6365-4332-a663-633438326336/93309274.png</picture>
@@ -1010,7 +1038,8 @@
 </offer>
 <offer id="316426947932" group_id="820590466562" available="true">
 <url>https://bokalwina.ru/highland?editionuid=316426947932</url>
-<price>6500</price>
+<price>5000</price>
+<oldprice>6500</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>8</categoryId>
 <picture>https://static.tildacdn.com/stor3134-3966-4033-a336-363137343433/45542947.png</picture>
@@ -1021,7 +1050,8 @@
 </offer>
 <offer id="939414744252" group_id="888697853022" available="true">
 <url>https://bokalwina.ru/artic_vista_alegre?editionuid=939414744252</url>
-<price>63000</price>
+<price>59900</price>
+<oldprice>63000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>8</categoryId>
 <picture>https://static.tildacdn.com/stor6163-3138-4532-b262-313163356235/8ebbf4f33f18435d5843e94666a3cc54.png</picture>
@@ -1054,7 +1084,8 @@
 </offer>
 <offer id="678168895042" group_id="768247313122" available="true">
 <url>https://bokalwina.ru/lehmann_gob_excellence___?editionuid=678168895042</url>
-<price>6000</price>
+<price>5500</price>
+<oldprice>6000</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
 <picture>https://static.tildacdn.com/stor3862-6163-4263-a331-373864313466/15066185.png</picture>

@@ -99,15 +99,24 @@ def build(rows):
     categories = {PARENT_CATEGORY: 1}
     offers = []
     skipped = []
+    warnings = []
     for r in rows:
         title = clean_title(r.get("title"))
-        price = parse_price(r.get("price"))
-        old = parse_price(r.get("sale_price")) if r.get("sale_price") else 0.0
+        # В формате Google Merchant: price = обычная цена, sale_price = цена со скидкой.
+        regular = parse_price(r.get("price"))
+        sale = parse_price(r.get("sale_price")) if r.get("sale_price") else 0.0
         link = (r.get("link") or "").strip()
         pic = (r.get("image_link") or "").strip()
-        if price <= 0:
+        if regular <= 0:
             skipped.append((title, "нет цены"))
             continue
+        price, old = regular, 0.0
+        if 0 < sale < regular:
+            if sale < regular * 0.2:
+                # Скидка больше 80% — почти наверняка опечатка в Тильде, скидку не применяем.
+                warnings.append((title, f"подозрительная скидка {regular:.0f} -> {sale:.0f}, взята обычная цена"))
+            else:
+                price, old = sale, regular
         if not pic:
             skipped.append((title, "нет картинки"))
             continue
@@ -127,7 +136,7 @@ def build(rows):
             "name": title,
             "url": link,
             "price": price,
-            "oldprice": old if old > price else 0.0,
+            "oldprice": old,
             "picture": pic,
             "vendor": vendor,
             "category_id": categories[cat],
@@ -135,7 +144,7 @@ def build(rows):
             "available": (r.get("availability") or "").strip().lower() == "in stock",
             "qty": qty,
         })
-    return categories, offers, skipped
+    return categories, offers, skipped, warnings
 
 
 def to_yml(categories, offers) -> str:
@@ -180,7 +189,7 @@ def to_yml(categories, offers) -> str:
 def main():
     raw = fetch(SRC)
     rows = list(csv.DictReader(io.StringIO(raw)))
-    categories, offers, skipped = build(rows)
+    categories, offers, skipped, warnings = build(rows)
     yml = to_yml(categories, offers)
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     (OUT_DIR / "bokalwina.yml").write_text(yml, encoding="utf-8")
@@ -191,15 +200,17 @@ def main():
         "offers": len(offers),
         "categories": list(categories.keys()),
         "skipped": skipped,
+        "warnings": warnings,
     }
     (OUT_DIR / "status.json").write_text(json.dumps(status, ensure_ascii=False, indent=2), encoding="utf-8")
     (OUT_DIR / "index.html").write_text(
         "<!doctype html><meta charset=utf-8><title>bokalwina feed</title>"
         f"<p>Фид для Директа: <a href='bokalwina.yml'>bokalwina.yml</a></p>"
         f"<p>Обновлено: {status['updated']} UTC. Товаров в источнике: {len(rows)}, в фиде: {len(offers)}.</p>"
-        f"<p>Пропущено: {html.escape(json.dumps(skipped, ensure_ascii=False))}</p>",
+        f"<p>Пропущено: {html.escape(json.dumps(skipped, ensure_ascii=False))}</p>"
+        f"<p>Предупреждения: {html.escape(json.dumps(warnings, ensure_ascii=False))}</p>",
         encoding="utf-8")
-    print(f"rows={len(rows)} offers={len(offers)} skipped={skipped}")
+    print(f"rows={len(rows)} offers={len(offers)} skipped={skipped} warnings={warnings}")
     if not offers:
         sys.exit("EMPTY FEED — aborting")
 
