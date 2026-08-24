@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-24 17:27">
+<yml_catalog date="2026-08-24 20:07">
 <shop>
 <name>Бокалвина</name>
 <company>Бокалвина</company>
@@ -547,7 +547,7 @@
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="951557486302" group_id="442551620142" available="true">
-<url>https://bokalwina.ru/tproduct/2233332781-442551620142-lehmann-montreal-17-cl-iz-kollektsii-fth?editionuid=951557486302</url>
+<url>https://bokalwina.ru/tproduct/2217230251-442551620142-lehmann-montreal-17-cl-iz-kollektsii-fth?editionuid=951557486302</url>
 <price>18800</price>
 <oldprice>19800</oldprice>
 <currencyId>RUR</currencyId>
@@ -658,7 +658,7 @@
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="962280343862" group_id="210473926942" available="true">
-<url>https://bokalwina.ru/markthomas_double_bend_sweet_wine/tproduct/1027709971-210473926942-markthomas-double-bend-white?editionuid=962280343862</url>
+<url>https://bokalwina.ru/tproduct/2217234611-210473926942-markthomas-double-bend-white?editionuid=962280343862</url>
 <price>16500</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
@@ -669,7 +669,7 @@
 <param name="Количество">2 шт</param>
 </offer>
 <offer id="459753447742" group_id="210473926942" available="true">
-<url>https://bokalwina.ru/markthomas_double_bend_sweet_wine/tproduct/1027709971-210473926942-markthomas-double-bend-white?editionuid=459753447742</url>
+<url>https://bokalwina.ru/tproduct/2217234611-210473926942-markthomas-double-bend-white?editionuid=459753447742</url>
 <price>48000</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
@@ -1129,7 +1129,7 @@
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="422285340142" group_id="422285340142" available="true">
-<url>https://bokalwina.ru/tproduct/2233332781-422285340142-lehmann-sydney-stakani-dlya-viski-i-kokt</url>
+<url>https://bokalwina.ru/tproduct/2217230251-422285340142-lehmann-sydney-stakani-dlya-viski-i-kokt</url>
 <price>17000</price>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
@@ -1150,7 +1150,7 @@
 <param name="Количество">2 шт</param>
 </offer>
 <offer id="822723262512" group_id="453186370162" available="true">
-<url>https://bokalwina.ru/453186370162/tproduct/2390750301-453186370162-stakani-dlya-viski-shu-fa-ot-nachtmann?editionuid=822723262512</url>
+<url>https://bokalwina.ru/tproduct/2217281311-453186370162-stakani-dlya-viski-shu-fa-ot-nachtmann?editionuid=822723262512</url>
 <price>6500</price>
 <currencyId>RUR</currencyId>
 <categoryId>8</categoryId>
