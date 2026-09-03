@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-03 12:28">
+<yml_catalog date="2026-09-03 13:27">
 <shop>
 <name>Бокалвина</name>
 <company>Бокалвина</company>
@@ -290,10 +290,10 @@
 <price>11200</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3435-3164-4662-b236-366664623037/78714900.png</picture>
+<picture>https://static.tildacdn.com/stor3433-3931-4632-a631-353066316139/657d6567f2c9f4107debef9bc4975276.jpg</picture>
 <name>Digestif - 2 шт</name>
 <vendor>Zalto</vendor>
-<description><![CDATA[Для изящных и элегантных ликеров и дистиллятов. Идеально раскрывает вкусовые качества и подчеркивает фруктовые нотки аромата напитка. Рекомендовано для: фруктовых дистиллятов, граппы, сладких и горьких ликеров.Объем:#nbsp;160 млВысота: 210 мм]]></description>
+<description><![CDATA[Для изящных и элегантных ликеров и дистиллятов. Идеально раскрывает вкусовые качества и подчеркивает фруктовые нотки аромата напитка. Рекомендовано для: фруктовых дистиллятов, граппы, сладких и горьких ликеров.Объем: 160 млВысота: 210 мм]]></description>
 <param name="Количество">2 шт</param>
 </offer>
 <offer id="824298534552" group_id="896124940692" available="true">
@@ -301,10 +301,10 @@
 <price>34000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3435-3164-4662-b236-366664623037/78714900.png</picture>
+<picture>https://static.tildacdn.com/stor3433-3931-4632-a631-353066316139/657d6567f2c9f4107debef9bc4975276.jpg</picture>
 <name>Digestif - 6 шт (набор)</name>
 <vendor>Zalto</vendor>
-<description><![CDATA[Для изящных и элегантных ликеров и дистиллятов. Идеально раскрывает вкусовые качества и подчеркивает фруктовые нотки аромата напитка. Рекомендовано для: фруктовых дистиллятов, граппы, сладких и горьких ликеров.Объем:#nbsp;160 млВысота: 210 мм]]></description>
+<description><![CDATA[Для изящных и элегантных ликеров и дистиллятов. Идеально раскрывает вкусовые качества и подчеркивает фруктовые нотки аромата напитка. Рекомендовано для: фруктовых дистиллятов, граппы, сладких и горьких ликеров.Объем: 160 млВысота: 210 мм]]></description>
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="654964483772" group_id="977087192392" available="true">
@@ -312,8 +312,8 @@
 <price>11000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3262-3062-4634-b063-343036316338/72848867.png</picture>
-<name>Zalto Effect - 2 шт</name>
+<picture>https://static.tildacdn.com/stor3231-3937-4437-b334-333637663837/ba66a712b75b0f6f1c28ebe1ef523e69.png</picture>
+<name>Zalto Coupe Crystal Clear и Coupe Effect - 2 шт</name>
 <vendor>Zalto</vendor>
 <description><![CDATA[Бокал-акварельСквозь его грани свет рисует узоры, вода обретает благородство, а обычный обед — черты церемонии.Легкий, как дыхание, но запоминающийся, как искусство.]]></description>
 <param name="Количество">2 шт</param>
@@ -323,8 +323,8 @@
 <price>31000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3262-3062-4634-b063-343036316338/72848867.png</picture>
-<name>Zalto Effect - 6 шт (набор)</name>
+<picture>https://static.tildacdn.com/stor3231-3937-4437-b334-333637663837/ba66a712b75b0f6f1c28ebe1ef523e69.png</picture>
+<name>Zalto Coupe Crystal Clear и Coupe Effect - 6 шт (набор)</name>
 <vendor>Zalto</vendor>
 <description><![CDATA[Бокал-акварельСквозь его грани свет рисует узоры, вода обретает благородство, а обычный обед — черты церемонии.Легкий, как дыхание, но запоминающийся, как искусство.]]></description>
 <param name="Количество">6 шт (набор)</param>
@@ -334,7 +334,7 @@
 <price>14100</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3537-3136-4235-b535-626230616561/14903109.png</picture>
+<picture>https://static.tildacdn.com/stor3864-3438-4134-a362-643165346261/378d8578917c2ffdd19ee48f7c491fb4.png</picture>
 <name>Zalto Water - 2 шт</name>
 <vendor>Zalto</vendor>
 <description><![CDATA[Бокал-дипломатМежду водой и вином, между пивом и соком — он находит слова, когда другие молчат.]]></description>
@@ -345,7 +345,7 @@
 <price>41000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3537-3136-4235-b535-626230616561/14903109.png</picture>
+<picture>https://static.tildacdn.com/stor3864-3438-4134-a362-643165346261/378d8578917c2ffdd19ee48f7c491fb4.png</picture>
 <name>Zalto Water - 6 шт (набор)</name>
 <vendor>Zalto</vendor>
 <description><![CDATA[Бокал-дипломатМежду водой и вином, между пивом и соком — он находит слова, когда другие молчат.]]></description>
@@ -356,7 +356,7 @@
 <price>14500</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3161-3334-4763-a466-646533376264/72771628.png</picture>
+<picture>https://static.tildacdn.com/stor6661-6164-4639-b937-356262356462/060c0d5283aff8d7cd68c497176b6ded.jpg</picture>
 <name>Zalto Beer - 2 шт</name>
 <vendor>Zalto</vendor>
 <description><![CDATA[Хмельная грацияПена — как облако.Вкус — как откровение.Форма — как признание в любви к пиву.]]></description>
@@ -367,7 +367,7 @@
 <price>43500</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3161-3334-4763-a466-646533376264/72771628.png</picture>
+<picture>https://static.tildacdn.com/stor6661-6164-4639-b937-356262356462/060c0d5283aff8d7cd68c497176b6ded.jpg</picture>
 <name>Zalto Beer - 6 шт (набор)</name>
 <vendor>Zalto</vendor>
 <description><![CDATA[Хмельная грацияПена — как облако.Вкус — как откровение.Форма — как признание в любви к пиву.]]></description>
@@ -378,17 +378,17 @@
 <price>16500</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3535-3938-4536-a362-653935333533/44879353.png</picture>
+<picture>https://static.tildacdn.com/stor6437-3365-4734-b034-373437343065/2a2a573403effa17d27016f2d2e8f368.png</picture>
 <name>Zalto Axium Decanter</name>
 <vendor>Zalto</vendor>
-<description><![CDATA[Дыхание винаДекантировать — значит любить неторопливо.]]></description>
+<description><![CDATA[Дыхание винаДекантировать - значит любить неторопливо.]]></description>
 </offer>
 <offer id="618670246672" group_id="618670246672" available="true">
 <url>https://bokalwina.ru/zalto_mystique_decanter</url>
 <price>17700</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3331-3437-4664-b134-336432666161/31259455.png</picture>
+<picture>https://static.tildacdn.com/stor3035-3432-4834-a636-633630386364/98119f4c277c0abe8560aee6d0138852.png</picture>
 <name>Zalto Mystique Decanter</name>
 <vendor>Zalto</vendor>
 <description><![CDATA[Декантер для мощных винГде бордо дышит, как спящий лев, а бароло просыпается после долгого сна.Объёмные плечи дают простор глубоким ароматам — пусть танины смягчаются, а характер остаётся.]]></description>
@@ -398,7 +398,7 @@
 <price>10500</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3632-3465-4764-b666-646633363264/92475625.png</picture>
+<picture>https://static.tildacdn.com/stor3661-3835-4563-b432-363664313833/21b56a00ca27b2d0a3b60058603b2aad.jpg</picture>
 <name>Zalto Графин - 250мл</name>
 <vendor>Zalto</vendor>
 <description><![CDATA[Для крепких характеров, достойных изящного обрамления.]]></description>
@@ -409,7 +409,7 @@
 <price>15000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3632-3465-4764-b666-646633363264/92475625.png</picture>
+<picture>https://static.tildacdn.com/stor3661-3835-4563-b432-363664313833/21b56a00ca27b2d0a3b60058603b2aad.jpg</picture>
 <name>Zalto Графин - 750мл</name>
 <vendor>Zalto</vendor>
 <description><![CDATA[Для крепких характеров, достойных изящного обрамления.]]></description>
@@ -420,7 +420,7 @@
 <price>17000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
-<picture>https://static.tildacdn.com/stor3632-3465-4764-b666-646633363264/92475625.png</picture>
+<picture>https://static.tildacdn.com/stor3661-3835-4563-b432-363664313833/21b56a00ca27b2d0a3b60058603b2aad.jpg</picture>
 <name>Zalto Графин - 1500мл</name>
 <vendor>Zalto</vendor>
 <description><![CDATA[Для крепких характеров, достойных изящного обрамления.]]></description>
