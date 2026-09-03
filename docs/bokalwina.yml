@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-03 10:28">
+<yml_catalog date="2026-09-03 11:29">
 <shop>
 <name>Бокалвина</name>
 <company>Бокалвина</company>
@@ -547,7 +547,7 @@
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="951557486302" group_id="442551620142" available="true">
-<url>https://bokalwina.ru/tproduct/2217230251-442551620142-lehmann-montreal-17-cl-iz-kollektsii-fth?editionuid=951557486302</url>
+<url>https://bokalwina.ru/tproduct/2233332781-442551620142-lehmann-montreal-17-cl-iz-kollektsii-fth?editionuid=951557486302</url>
 <price>18800</price>
 <oldprice>19800</oldprice>
 <currencyId>RUR</currencyId>
@@ -560,7 +560,7 @@
 </offer>
 <offer id="643450209392" group_id="456997173942" available="true">
 <url>https://bokalwina.ru/markthomas_double_bend_red_burgundy?editionuid=643450209392</url>
-<price>18500</price>
+<price>18900</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
 <picture>https://static.tildacdn.com/stor3833-3933-4363-b735-636564663634/63177333.png</picture>
@@ -571,7 +571,7 @@
 </offer>
 <offer id="550460179692" group_id="456997173942" available="true">
 <url>https://bokalwina.ru/markthomas_double_bend_red_burgundy?editionuid=550460179692</url>
-<price>53000</price>
+<price>53480</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
 <picture>https://static.tildacdn.com/stor3833-3933-4363-b735-636564663634/63177333.png</picture>
@@ -592,8 +592,7 @@
 </offer>
 <offer id="999266905312" group_id="618005197582" available="true">
 <url>https://bokalwina.ru/markthomas_double_bend_champagne?editionuid=999266905312</url>
-<price>17000</price>
-<oldprice>17500</oldprice>
+<price>17230</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
 <picture>https://static.tildacdn.com/stor6565-3630-4730-b862-323361353335/26785772.png</picture>
@@ -604,7 +603,7 @@
 </offer>
 <offer id="453048787652" group_id="618005197582" available="true">
 <url>https://bokalwina.ru/markthomas_double_bend_champagne?editionuid=453048787652</url>
-<price>49000</price>
+<price>49660</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
 <picture>https://static.tildacdn.com/stor6565-3630-4730-b862-323361353335/26785772.png</picture>
@@ -615,7 +614,7 @@
 </offer>
 <offer id="384341691922" group_id="106261828232" available="true">
 <url>https://bokalwina.ru/markthomas_double_bend_allround?editionuid=384341691922</url>
-<price>17000</price>
+<price>17230</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
 <picture>https://static.tildacdn.com/stor3761-3462-4538-a565-643434643861/90749516.png</picture>
@@ -626,7 +625,7 @@
 </offer>
 <offer id="293218585912" group_id="106261828232" available="true">
 <url>https://bokalwina.ru/markthomas_double_bend_allround?editionuid=293218585912</url>
-<price>49000</price>
+<price>49660</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
 <picture>https://static.tildacdn.com/stor3761-3462-4538-a565-643434643861/90749516.png</picture>
@@ -658,7 +657,7 @@
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="962280343862" group_id="210473926942" available="true">
-<url>https://bokalwina.ru/tproduct/2217234611-210473926942-markthomas-double-bend-white?editionuid=962280343862</url>
+<url>https://bokalwina.ru/markthomas_double_bend_sweet_wine/tproduct/1027709971-210473926942-markthomas-double-bend-white?editionuid=962280343862</url>
 <price>16500</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
@@ -669,7 +668,7 @@
 <param name="Количество">2 шт</param>
 </offer>
 <offer id="459753447742" group_id="210473926942" available="true">
-<url>https://bokalwina.ru/tproduct/2217234611-210473926942-markthomas-double-bend-white?editionuid=459753447742</url>
+<url>https://bokalwina.ru/markthomas_double_bend_sweet_wine/tproduct/1027709971-210473926942-markthomas-double-bend-white?editionuid=459753447742</url>
 <price>48000</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
@@ -727,8 +726,7 @@
 </offer>
 <offer id="172489346162" group_id="475927985182" available="true">
 <url>https://bokalwina.ru/terroir_empreinte?editionuid=172489346162</url>
-<price>17000</price>
-<oldprice>17200</oldprice>
+<price>17130</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3261-6133-4466-b233-393938323932/62636882.png</picture>
@@ -739,8 +737,7 @@
 </offer>
 <offer id="760661197582" group_id="475927985182" available="true">
 <url>https://bokalwina.ru/terroir_empreinte?editionuid=760661197582</url>
-<price>48000</price>
-<oldprice>49900</oldprice>
+<price>49990</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3261-6133-4466-b233-393938323932/62636882.png</picture>
@@ -751,8 +748,7 @@
 </offer>
 <offer id="511875063622" group_id="402817793502" available="true">
 <url>https://bokalwina.ru/terroir_le_septentrional?editionuid=511875063622</url>
-<price>17000</price>
-<oldprice>18000</oldprice>
+<price>17130</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3865-3164-4462-a534-393962623632/10691764.png</picture>
@@ -763,8 +759,7 @@
 </offer>
 <offer id="622720137732" group_id="402817793502" available="true">
 <url>https://bokalwina.ru/terroir_le_septentrional?editionuid=622720137732</url>
-<price>48000</price>
-<oldprice>49900</oldprice>
+<price>49990</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3865-3164-4462-a534-393962623632/10691764.png</picture>
@@ -775,8 +770,7 @@
 </offer>
 <offer id="762363508652" group_id="423381285382" available="true">
 <url>https://bokalwina.ru/terroir_le_meridional?editionuid=762363508652</url>
-<price>17000</price>
-<oldprice>17500</oldprice>
+<price>17130</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3061-6634-4535-b961-303464333635/18769282.png</picture>
@@ -787,8 +781,7 @@
 </offer>
 <offer id="816580827502" group_id="423381285382" available="true">
 <url>https://bokalwina.ru/terroir_le_meridional?editionuid=816580827502</url>
-<price>48000</price>
-<oldprice>49900</oldprice>
+<price>49990</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3061-6634-4535-b961-303464333635/18769282.png</picture>
@@ -799,8 +792,7 @@
 </offer>
 <offer id="490924863612" group_id="490924863612" available="true">
 <url>https://bokalwina.ru/terroir_lesthete</url>
-<price>11000</price>
-<oldprice>11500</oldprice>
+<price>11990</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3838-3737-4932-b262-343962306638/95613144.png</picture>
@@ -810,7 +802,7 @@
 </offer>
 <offer id="767609522802" group_id="169012346452" available="true">
 <url>https://bokalwina.ru/rasin_luniversel?editionuid=767609522802</url>
-<price>14000</price>
+<price>14480</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3364-3137-4139-b664-356533303836/37897115.png</picture>
@@ -821,7 +813,7 @@
 </offer>
 <offer id="200463170682" group_id="169012346452" available="true">
 <url>https://bokalwina.ru/rasin_luniversel?editionuid=200463170682</url>
-<price>41500</price>
+<price>42120</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3364-3137-4139-b664-356533303836/37897115.png</picture>
@@ -832,7 +824,7 @@
 </offer>
 <offer id="225568946022" group_id="741336470462" available="true">
 <url>https://bokalwina.ru/rasin_lesthete?editionuid=225568946022</url>
-<price>14000</price>
+<price>14480</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3236-3233-4133-b662-373066316231/89061305.png</picture>
@@ -843,8 +835,7 @@
 </offer>
 <offer id="299133303762" group_id="741336470462" available="true">
 <url>https://bokalwina.ru/rasin_lesthete?editionuid=299133303762</url>
-<price>41500</price>
-<oldprice>42000</oldprice>
+<price>42120</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3236-3233-4133-b662-373066316231/89061305.png</picture>
@@ -855,7 +846,7 @@
 </offer>
 <offer id="209286790042" group_id="292056170132" available="true">
 <url>https://bokalwina.ru/raisin_l_subtil?editionuid=209286790042</url>
-<price>14000</price>
+<price>14480</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3538-6630-4165-a266-633331333034/95410226.png</picture>
@@ -866,8 +857,7 @@
 </offer>
 <offer id="354409965052" group_id="292056170132" available="true">
 <url>https://bokalwina.ru/raisin_l_subtil?editionuid=354409965052</url>
-<price>41500</price>
-<oldprice>42000</oldprice>
+<price>42120</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor3538-6630-4165-a266-633331333034/95410226.png</picture>
@@ -878,8 +868,7 @@
 </offer>
 <offer id="558391243222" group_id="558391243222" available="true">
 <url>https://bokalwina.ru/rasin_luniversel_decanter</url>
-<price>11000</price>
-<oldprice>11500</oldprice>
+<price>11990</price>
 <currencyId>RUR</currencyId>
 <categoryId>6</categoryId>
 <picture>https://static.tildacdn.com/stor6238-6365-4332-a663-633438326336/93309274.png</picture>
@@ -1129,7 +1118,7 @@
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="422285340142" group_id="422285340142" available="true">
-<url>https://bokalwina.ru/tproduct/2217230251-422285340142-lehmann-sydney-stakani-dlya-viski-i-kokt</url>
+<url>https://bokalwina.ru/tproduct/2233332781-422285340142-lehmann-sydney-stakani-dlya-viski-i-kokt</url>
 <price>17000</price>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
@@ -1150,7 +1139,7 @@
 <param name="Количество">2 шт</param>
 </offer>
 <offer id="822723262512" group_id="453186370162" available="true">
-<url>https://bokalwina.ru/tproduct/2217281311-453186370162-stakani-dlya-viski-shu-fa-ot-nachtmann?editionuid=822723262512</url>
+<url>https://bokalwina.ru/453186370162/tproduct/2390750301-453186370162-stakani-dlya-viski-shu-fa-ot-nachtmann?editionuid=822723262512</url>
 <price>6500</price>
 <currencyId>RUR</currencyId>
 <categoryId>8</categoryId>
