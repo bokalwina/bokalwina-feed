@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-18 11:28">
+<yml_catalog date="2026-09-18 12:27">
 <shop>
 <name>Бокалвина</name>
 <company>Бокалвина</company>
@@ -18,7 +18,7 @@
 <offers>
 <offer id="508911225332" group_id="714101381102" available="true">
 <url>https://bokalwina.ru/josephine_red?editionuid=508911225332</url>
-<price>25000</price>
+<price>26000</price>
 <currencyId>RUR</currencyId>
 <categoryId>2</categoryId>
 <picture>https://static.tildacdn.com/stor3063-6363-4634-a132-313638336161/57978963.png</picture>
@@ -40,7 +40,7 @@
 </offer>
 <offer id="979836650502" group_id="638379438752" available="true">
 <url>https://bokalwina.ru/josephine_universal?editionuid=979836650502</url>
-<price>25000</price>
+<price>26000</price>
 <currencyId>RUR</currencyId>
 <categoryId>2</categoryId>
 <picture>https://static.tildacdn.com/stor3239-3663-4537-b834-393265323466/30442593.png</picture>
@@ -62,7 +62,7 @@
 </offer>
 <offer id="556339985492" group_id="592501182472" available="true">
 <url>https://bokalwina.ru/josephine_champagne?editionuid=556339985492</url>
-<price>25000</price>
+<price>26000</price>
 <currencyId>RUR</currencyId>
 <categoryId>2</categoryId>
 <picture>https://static.tildacdn.com/stor3735-3732-4237-a661-313135616333/99762980.png</picture>
@@ -84,7 +84,7 @@
 </offer>
 <offer id="483354927962" group_id="875162442932" available="true">
 <url>https://bokalwina.ru/josephine_white?editionuid=483354927962</url>
-<price>25000</price>
+<price>26000</price>
 <currencyId>RUR</currencyId>
 <categoryId>2</categoryId>
 <picture>https://static.tildacdn.com/stor6265-3161-4634-b631-373862313630/40957329.png</picture>
@@ -106,7 +106,7 @@
 </offer>
 <offer id="288887332762" group_id="638530115752" available="true">
 <url>https://bokalwina.ru/josephine_water?editionuid=288887332762</url>
-<price>15500</price>
+<price>16000</price>
 <currencyId>RUR</currencyId>
 <categoryId>2</categoryId>
 <picture>https://static.tildacdn.com/stor3464-3332-4539-b835-633932663833/21007950.png</picture>
@@ -117,7 +117,7 @@
 </offer>
 <offer id="298459798632" group_id="638530115752" available="true">
 <url>https://bokalwina.ru/josephine_water?editionuid=298459798632</url>
-<price>45000</price>
+<price>48000</price>
 <currencyId>RUR</currencyId>
 <categoryId>2</categoryId>
 <picture>https://static.tildacdn.com/stor3464-3332-4539-b835-633932663833/21007950.png</picture>
@@ -128,7 +128,7 @@
 </offer>
 <offer id="502371165022" group_id="365984786872" available="true">
 <url>https://bokalwina.ru/zalto_white_wine?editionuid=502371165022</url>
-<price>13500</price>
+<price>14000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3761-3536-4161-a430-613038643734/d8f705747650a461c61e61673c8cd18e.jpg</picture>
@@ -139,8 +139,7 @@
 </offer>
 <offer id="192440736212" group_id="365984786872" available="true">
 <url>https://bokalwina.ru/zalto_white_wine?editionuid=192440736212</url>
-<price>38000</price>
-<oldprice>39000</oldprice>
+<price>40000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3761-3536-4161-a430-613038643734/d8f705747650a461c61e61673c8cd18e.jpg</picture>
@@ -174,8 +173,7 @@
 </offer>
 <offer id="959363777902" group_id="509840809972" available="true">
 <url>https://bokalwina.ru/zalto_champagne?editionuid=959363777902</url>
-<price>13500</price>
-<oldprice>14200</oldprice>
+<price>14000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3632-3634-4231-b135-383439366431/cd75c0017e00810763e58b6e9dc07126.png</picture>
@@ -186,7 +184,7 @@
 </offer>
 <offer id="400744471592" group_id="509840809972" available="true">
 <url>https://bokalwina.ru/zalto_champagne?editionuid=400744471592</url>
-<price>39500</price>
+<price>40000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3632-3634-4231-b135-383439366431/cd75c0017e00810763e58b6e9dc07126.png</picture>
@@ -197,7 +195,7 @@
 </offer>
 <offer id="450363322242" group_id="954310727422" available="true">
 <url>https://bokalwina.ru/zalto_bordeaux?editionuid=450363322242</url>
-<price>14500</price>
+<price>14700</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3763-3564-4538-a662-396637326135/def5346be2f90636779162959c5cd31b.png</picture>
@@ -208,7 +206,7 @@
 </offer>
 <offer id="789706071012" group_id="954310727422" available="true">
 <url>https://bokalwina.ru/zalto_bordeaux?editionuid=789706071012</url>
-<price>42600</price>
+<price>43000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3763-3564-4538-a662-396637326135/def5346be2f90636779162959c5cd31b.png</picture>
@@ -219,7 +217,7 @@
 </offer>
 <offer id="419749122122" group_id="990342995072" available="true">
 <url>https://bokalwina.ru/zalto_universal?editionuid=419749122122</url>
-<price>14300</price>
+<price>14600</price>
 <oldprice>15300</oldprice>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
@@ -243,7 +241,7 @@
 </offer>
 <offer id="140831781102" group_id="850661765372" available="true">
 <url>https://bokalwina.ru/omega_gravitas?editionuid=140831781102</url>
-<price>16000</price>
+<price>15500</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3837-3865-4138-b930-653139313166/a33c748ee3ad9e5ed7bf8b750ca01d53.png</picture>
@@ -254,7 +252,7 @@
 </offer>
 <offer id="953127360392" group_id="850661765372" available="true">
 <url>https://bokalwina.ru/omega_gravitas?editionuid=953127360392</url>
-<price>44000</price>
+<price>45000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3837-3865-4138-b930-653139313166/a33c748ee3ad9e5ed7bf8b750ca01d53.png</picture>
@@ -265,7 +263,7 @@
 </offer>
 <offer id="463729172442" group_id="164662729772" available="true">
 <url>https://bokalwina.ru/sweet_wine?editionuid=463729172442</url>
-<price>13500</price>
+<price>14000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3065-3630-4361-a233-393762653862/7ab8e392258a2665af63f1190ddaf588.png</picture>
@@ -276,7 +274,7 @@
 </offer>
 <offer id="918646644372" group_id="164662729772" available="true">
 <url>https://bokalwina.ru/sweet_wine?editionuid=918646644372</url>
-<price>38500</price>
+<price>40000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3065-3630-4361-a233-393762653862/7ab8e392258a2665af63f1190ddaf588.png</picture>
@@ -287,7 +285,7 @@
 </offer>
 <offer id="741074917812" group_id="896124940692" available="true">
 <url>https://bokalwina.ru/sweet_digestif?editionuid=741074917812</url>
-<price>11200</price>
+<price>12000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3433-3931-4632-a631-353066316139/657d6567f2c9f4107debef9bc4975276.jpg</picture>
@@ -298,7 +296,7 @@
 </offer>
 <offer id="824298534552" group_id="896124940692" available="true">
 <url>https://bokalwina.ru/sweet_digestif?editionuid=824298534552</url>
-<price>34000</price>
+<price>35000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3433-3931-4632-a631-353066316139/657d6567f2c9f4107debef9bc4975276.jpg</picture>
@@ -309,7 +307,7 @@
 </offer>
 <offer id="654964483772" group_id="977087192392" available="true">
 <url>https://bokalwina.ru/zalto_effect?editionuid=654964483772</url>
-<price>11000</price>
+<price>12000</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3231-3937-4437-b334-333637663837/ba66a712b75b0f6f1c28ebe1ef523e69.png</picture>
@@ -385,7 +383,7 @@
 </offer>
 <offer id="618670246672" group_id="618670246672" available="true">
 <url>https://bokalwina.ru/zalto_mystique_decanter</url>
-<price>17700</price>
+<price>18500</price>
 <currencyId>RUR</currencyId>
 <categoryId>3</categoryId>
 <picture>https://static.tildacdn.com/stor3035-3432-4834-a636-633630386364/98119f4c277c0abe8560aee6d0138852.png</picture>
@@ -547,7 +545,7 @@
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="951557486302" group_id="442551620142" available="true">
-<url>https://bokalwina.ru/tproduct/2217230251-442551620142-lehmann-montreal-17-cl-iz-kollektsii-fth?editionuid=951557486302</url>
+<url>https://bokalwina.ru/tproduct/2233332781-442551620142-lehmann-montreal-17-cl-iz-kollektsii-fth?editionuid=951557486302</url>
 <price>18800</price>
 <oldprice>19800</oldprice>
 <currencyId>RUR</currencyId>
@@ -657,7 +655,7 @@
 <param name="Количество">6 шт</param>
 </offer>
 <offer id="962280343862" group_id="210473926942" available="true">
-<url>https://bokalwina.ru/tproduct/2217234611-210473926942-markthomas-double-bend-white?editionuid=962280343862</url>
+<url>https://bokalwina.ru/markthomas_double_bend_sweet_wine/tproduct/1027709971-210473926942-markthomas-double-bend-white?editionuid=962280343862</url>
 <price>16810</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
@@ -668,7 +666,7 @@
 <param name="Количество">2 шт</param>
 </offer>
 <offer id="459753447742" group_id="210473926942" available="true">
-<url>https://bokalwina.ru/tproduct/2217234611-210473926942-markthomas-double-bend-white?editionuid=459753447742</url>
+<url>https://bokalwina.ru/markthomas_double_bend_sweet_wine/tproduct/1027709971-210473926942-markthomas-double-bend-white?editionuid=459753447742</url>
 <price>48380</price>
 <currencyId>RUR</currencyId>
 <categoryId>5</categoryId>
@@ -1118,7 +1116,7 @@
 <param name="Количество">6 шт (набор)</param>
 </offer>
 <offer id="422285340142" group_id="422285340142" available="true">
-<url>https://bokalwina.ru/tproduct/2217230251-422285340142-lehmann-sydney-stakani-dlya-viski-i-kokt</url>
+<url>https://bokalwina.ru/tproduct/2233332781-422285340142-lehmann-sydney-stakani-dlya-viski-i-kokt</url>
 <price>17000</price>
 <currencyId>RUR</currencyId>
 <categoryId>4</categoryId>
@@ -1139,7 +1137,7 @@
 <param name="Количество">2 шт</param>
 </offer>
 <offer id="822723262512" group_id="453186370162" available="true">
-<url>https://bokalwina.ru/tproduct/2217281311-453186370162-stakani-dlya-viski-shu-fa-ot-nachtmann?editionuid=822723262512</url>
+<url>https://bokalwina.ru/453186370162/tproduct/2390750301-453186370162-stakani-dlya-viski-shu-fa-ot-nachtmann?editionuid=822723262512</url>
 <price>6500</price>
 <currencyId>RUR</currencyId>
 <categoryId>8</categoryId>
