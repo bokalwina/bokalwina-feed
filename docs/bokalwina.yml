@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-20 06:15">
+<yml_catalog date="2026-11-20 14:48">
 <shop>
 <name>Бокалвина</name>
 <company>Бокалвина</company>
@@ -1146,6 +1146,16 @@
 <vendor>Nachtmann</vendor>
 <description><![CDATA[Там, где немецкое качество встречает восточную философию дизайна.]]></description>
 <param name="Количество">4 шт</param>
+</offer>
+<offer id="869662464663" group_id="869662464663" available="true">
+<url>https://bokalwina.ru/zalto_balance/tproduct/1680520621-869662464663-zalto-denkart-cask</url>
+<price>33000</price>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture>https://static.tildacdn.com/stor6533-3937-4534-a164-396237373934/f7bcd7c4ebc2c95cc6ff0b3d5cd6e484.jpg</picture>
+<name>Zalto Denk'Art Cask</name>
+<vendor>Zalto</vendor>
+<description><![CDATA[Он рождён для напитков, впитавших тепло старого дуба: благородного виски, выдержанного коньяка, тёмного рома и арманьяка. В его невесомых гранях они, как и мескаль, кальвадос или граппа, теряют резкость, оставляя лишь чистую музыку аромата.]]></description>
 </offer>
 </offers>
 </shop>
